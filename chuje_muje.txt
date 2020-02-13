@@ -1,4 +1,8 @@
 srał pierdział gryzł wodę miał w dupie przegrodę
 kurwa jajo chuj i cipa
+<<<<<<< HEAD
 nie
 Tak.
+=======
+jebać
+>>>>>>> master
